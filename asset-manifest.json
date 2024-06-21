@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ColourCorrect/static/css/main.aad7636c.css",
+    "main.js": "/ColourCorrect/static/js/main.9051c0f2.js",
+    "static/js/453.5c34d395.chunk.js": "/ColourCorrect/static/js/453.5c34d395.chunk.js",
+    "static/media/logo.svg": "/ColourCorrect/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/ColourCorrect/index.html",
+    "main.aad7636c.css.map": "/ColourCorrect/static/css/main.aad7636c.css.map",
+    "main.9051c0f2.js.map": "/ColourCorrect/static/js/main.9051c0f2.js.map",
+    "453.5c34d395.chunk.js.map": "/ColourCorrect/static/js/453.5c34d395.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aad7636c.css",
+    "static/js/main.9051c0f2.js"
+  ]
+}
